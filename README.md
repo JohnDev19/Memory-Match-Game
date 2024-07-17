@@ -16,6 +16,13 @@ The Memory Match Game is a simple card-matching game where the player must match
 - Sound effects for flipping and matching cards
 - Game Over screen with final score
 
+
+## Screenshots
+
+1. `menu_screenshot.png`
+2. `gameplay_screenshot.png`
+
+
 ## Installation
 
 1. **Clone the repository:**
