@@ -19,8 +19,14 @@ The Memory Match Game is a simple card-matching game where the player must match
 
 ## Screenshots
 
-[!Screenshot](IMG_20240717_135505.jpg)
-[!Screenshot](IMG_20240717_135758.jpg)
+![Screenshot1](IMG_20240717_135505.jpg)
+![Screenshot](IMG_20240717_135758.jpg)
+
+## Modules and Libraries
+
+The game uses the following Python modules and libraries:
+
+- `pygame`: A set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library.
 
 
 ## Installation
@@ -59,3 +65,8 @@ Run the game using the following command:
 
 ```bash
 python main.py
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
