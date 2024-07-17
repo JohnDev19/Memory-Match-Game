@@ -69,9 +69,9 @@ class Game:
         self.background = pygame.transform.scale(self.background, (800, 600))
 
         # sound effects
-        self.flip_sound = pygame.mixer.Sound(os.path.join('sounds', 'flip.wav'))
-        self.match_sound = pygame.mixer.Sound(os.path.join('sounds', 'match.wav'))
-        self.no_match_sound = pygame.mixer.Sound(os.path.join('sounds', 'no_match.wav'))
+        self.flip_sound = pygame.mixer.Sound(os.path.join('sounds', 'flip.mp3'))
+        self.match_sound = pygame.mixer.Sound(os.path.join('sounds', 'match.mp3'))
+        self.no_match_sound = pygame.mixer.Sound(os.path.join('sounds', 'failed.mp3'))
 
     def generate_cards(self):
         colors = [
