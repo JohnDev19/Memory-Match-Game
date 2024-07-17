@@ -19,8 +19,8 @@ The Memory Match Game is a simple card-matching game where the player must match
 
 ## Screenshots
 
-1. `menu_screenshot.png`
-2. `gameplay_screenshot.png`
+[!Screenshot](IMG_20240717_135505.jpg)
+[!Screenshot](IMG_20240717_135758.jpg)
 
 
 ## Installation
